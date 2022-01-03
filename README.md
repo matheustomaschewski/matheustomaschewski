@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matheustomaschewski
 - 👀 I’m interested in Electronic Engineering, programming and other things.
-- 🌱 I’m currently learning C#, Vb.Net, Python and SQL.
+- 🌱 I’m currently learning C#, Vb.Net, Python, SQL, React, Angular, ASP.Net, HTML, JavaScript and CSS.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 For contact, send e-mail to: matheus_tomaschewski@hotmail.com
 - For Facebook, Instagram, LinkedIn and Telegram: @mtomaschewski
