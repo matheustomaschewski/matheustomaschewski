@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @matheustomaschewski
-- 👀 I’m interested in Electronic Engineering, programming and other things.
-- 🌱 I’m currently learning C#, Vb.Net, Python, SQL, React, Angular, ASP.Net, HTML, JavaScript and CSS.
-<!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 For contact, send e-mail to: matheus_tomaschewski@hotmail.com
-- For Facebook, Instagram, LinkedIn and Telegram: @mtomaschewski
+- 👀 I’m interested in Electronic Engineering and programming.
+- 🌱 I’m currently learning...
+<!--- - 💞️ I’m looking to collaborate on ... 📫 --->
 
 <!---
 matheustomaschewski/matheustomaschewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
